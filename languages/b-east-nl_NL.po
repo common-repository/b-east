@@ -1,0 +1,104 @@
+# Copyright (C) 2024 B-east Netherlands B.V.
+# This file is distributed under the same license as the B-east Shipping Method for WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: B-east for WooCommerce\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/b-east\n"
+"POT-Creation-Date: 2024-10-10 09:37:01+00:00\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/class-menu.php:30
+msgid "B-east Settings"
+msgstr "B-east instellingen"
+
+#: includes/class-menu.php:31 includes/class-orderlist.php:103
+#: includes/class-settings.php:31
+msgid "B-east"
+msgstr "B-east"
+
+#: includes/class-menu.php:64
+msgid "Save Settings"
+msgstr "Instellingen opslaan"
+
+#. translators: %s: team name
+#: includes/class-menu.php:75
+msgid "Prices and terms for %s"
+msgstr "Prijzen en voorwaarden voor %s"
+
+#: includes/class-menu.php:90 includes/class-metabox.php:122
+#: includes/class-orderlist.php:199
+msgid "Standard"
+msgstr "Standaard"
+
+#: includes/class-metabox.php:88
+msgid "Show label"
+msgstr "Toon label"
+
+#: includes/class-metabox.php:91
+msgid "Show on B-east"
+msgstr "Bekijk op B-east"
+
+#: includes/class-metabox.php:111 includes/class-orderlist.php:179
+msgid "Number of parcels"
+msgstr "Aantal colli"
+
+#: includes/class-metabox.php:119
+msgid "Product"
+msgstr "Product"
+
+#: includes/class-metabox.php:127 includes/class-orderlist.php:120
+msgid "Send to B-east"
+msgstr "Stuur naar B-east"
+
+#: includes/class-orderlist.php:101
+msgid "Label"
+msgstr "Label"
+
+#: includes/class-orderlist.php:121
+msgid "Set B-east options"
+msgstr "B-east opties instellen"
+
+#: includes/class-orderlist.php:215
+msgid "Submit"
+msgstr "Verzenden"
+
+#: includes/class-settings.php:38
+msgid "API key"
+msgstr "API-sleutel"
+
+#: includes/class-settings.php:81
+msgid "Invalid api key"
+msgstr "Ongeldige API-sleutel"
+
+#. Plugin Name of the plugin/theme
+msgid "B-east for WooCommerce"
+msgstr "B-east voor WooCommerce"
+
+#. Plugin URI of the plugin/theme
+msgid "https://app.b-east.nl/login"
+msgstr "https://app.b-east.nl/login"
+
+#. Description of the plugin/theme
+msgid "Integrate B-east shipping method with WooCommerce."
+msgstr "Integreer B-east met WooCommerce."
+
+#. Author of the plugin/theme
+msgid "B-east Netherlands B.V."
+msgstr "B-east Netherlands B.V."
